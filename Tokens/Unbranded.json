@@ -1,47 +1,47 @@
 {
   "brand": {
     "primary500": {
-      "value": "#e6a151",
+      "value": "#00c7ed",
       "type": "color"
     },
     "secondary500": {
-      "value": "#262727",
+      "value": "#5a5a5a",
       "type": "color"
     },
     "primary200": {
-      "value": "#e5965133",
+      "value": "rgba(0,216,237,0.2)",
       "type": "color"
     },
     "primary400": {
-      "value": "#e5965166",
+      "value": "rgba(0,206,237,0.4)",
       "type": "color"
     },
     "primary300": {
-      "value": "#e596514d",
+      "value": "rgba(0,202,237,0.3)",
       "type": "color"
     },
     "primary100": {
-      "value": "#e596511a",
+      "value": "rgba(0,189,237,0.1)",
       "type": "color"
     },
     "secondary400": {
-      "value": "#26272766",
+      "value": "#3d304566",
       "type": "color"
     },
     "secondary300": {
-      "value": "#2627274d",
+      "value": "#3d30454d",
       "type": "color"
     },
     "secondary200": {
-      "value": "#26272733",
+      "value": "#3d304533",
       "type": "color"
     },
     "secondary100": {
-      "value": "#2627271a",
+      "value": "#3d30451a",
       "type": "color"
     },
     "gradient": {
-      "value": "linear-gradient(90deg, #f48c00 0%, #262727 100%)",
+      "value": "linear-gradient(90deg, #00C7ED 0%, #3d3045 100%)",
       "type": "color",
       "description": "Gradient"
     }
@@ -91,7 +91,7 @@
   },
   "fontFamilies": {
     "FontPrimary": {
-      "value": "Diodrum",
+      "value": "VM Circular Shout",
       "type": "fontFamilies"
     }
   },
@@ -151,13 +151,13 @@
     }
   },
   "S": {
-    "value": "4",
+    "value": "8",
     "type": "borderRadius"
   },
   "Button": {
     "Primary": {
       "label": {
-        "value": "Klik gewoon",
+        "value": "Placeholder copy",
         "type": "other"
       }
     }

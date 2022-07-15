@@ -1,0 +1,32 @@
+[
+  {
+    "id": "7730a5cb3ec7bc318f38cc2f6fd94ff00516cbb2",
+    "name": "Virgin Media Light",
+    "selectedTokenSets": {
+      "Ziggo": "disabled",
+      "VM": "enabled",
+      "Unbranded": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "9035bc8e001add134e56b3126e24f780797ce44d",
+    "name": "Ziggo Light",
+    "selectedTokenSets": {
+      "VM": "disabled",
+      "Ziggo": "enabled",
+      "Unbranded": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "e8ec85323b8b435cb89cae010c15ac4647982f97",
+    "name": "Unbranded",
+    "selectedTokenSets": {
+      "VM": "disabled",
+      "Ziggo": "disabled",
+      "Unbranded": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
