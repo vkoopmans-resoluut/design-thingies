@@ -1,6 +1,6 @@
 {
   "brand": {
-    "primary500": {
+    "primary501": {
       "value": "#e6a151",
       "type": "color"
     },
@@ -56,39 +56,9 @@
       "type": "color"
     }
   },
-  "Elevation-1": {
-    "value": {
-      "color": "#f48c00",
-      "type": "dropShadow",
-      "x": "0",
-      "y": "4",
-      "blur": "8",
-      "spread": "0"
-    },
-    "type": "boxShadow"
-  },
-  "Elevation-2": {
-    "value": {
-      "color": "#f48c00",
-      "type": "dropShadow",
-      "x": "0",
-      "y": "0",
-      "blur": "4",
-      "spread": "0"
-    },
-    "type": "boxShadow"
-  },
-  "High": {
-    "value": {
-      "x": "10",
-      "y": "14",
-      "blur": "34",
-      "spread": "0",
-      "color": "{brand.primary500}",
-      "type": "dropShadow"
-    },
-    "type": "boxShadow"
-  },
+  "Elevation-1": {},
+  "Elevation-2": {},
+  "High": {},
   "fontFamilies": {
     "FontPrimary": {
       "value": "Diodrum",
@@ -125,19 +95,7 @@
       "type": "paragraphSpacing"
     }
   },
-  "Button_Text": {
-    "value": {
-      "fontFamily": "{fontFamilies.FontPrimary}",
-      "fontWeight": "{fontWeights.FontSecondary}",
-      "lineHeight": "$lineHeights.0",
-      "fontSize": "$fontSize.0",
-      "letterSpacing": "$letterSpacing.0",
-      "paragraphSpacing": "$paragraphSpacing.0",
-      "textCase": "$textCase.none",
-      "textDecoration": "$textDecoration.none"
-    },
-    "type": "typography"
-  },
+  "Button_Text": {},
   "textCase": {
     "none": {
       "value": "none",
@@ -150,10 +108,7 @@
       "type": "textDecoration"
     }
   },
-  "S": {
-    "value": "4",
-    "type": "borderRadius"
-  },
+  "S": {},
   "Button": {
     "Primary": {
       "label": {
@@ -161,5 +116,6 @@
         "type": "other"
       }
     }
-  }
+  },
+  "$themes": []
 }
